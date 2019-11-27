@@ -1,6 +1,6 @@
 # supplier_dashboard
 
-> My bedazzling Nuxt.js project
+> EasyShop Test Case with Nuxt.js
 
 ## Build Setup
 
